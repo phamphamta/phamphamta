@@ -16,7 +16,7 @@ I am a **Frontend Developer** with over 2 years of experience in building modern
 - To contribute to open-source projects and engage with the development community.
 
 ## 📫 Contact
-Feel free to reach out via email: [phamphamta@gmail.com]
+Feel free to reach out via email: [pphamta@gmail.com]
 
 ---
 
