@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub profile!
 
 Hi there, I’m **@phamphamta**.  
-I am a **Frontend Developer** with over 2 years of experience in building modern, user-friendly web applications.
+I am a **Frontend Developer** with over 1 years of experience in building modern, user-friendly web applications.
 
 ## 👀 Interests
 - I am passionate about application development and exploring new technologies.
